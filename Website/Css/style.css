@@ -1,0 +1,13 @@
+*{
+  margin: 0px;
+  padding: 0px;
+  font-family: arial;
+
+}
+
+header{
+  background: url(1.jpg);
+  height: 100vh;
+  background-size: cover;
+  background-position: center;
+}
